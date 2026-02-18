@@ -1,0 +1,13 @@
+{
+	"modules": { 
+		"PublicHoliday": {
+			"version": "1.0",
+			"name": "jours-férié",
+			"CleApi":"vn2udsr0s08cc6d5tqf86cesuvun154g3oie0486i8he5cpkc4td8",
+			"rules": {
+				"getHolidays": ["public holidays","public holiday","bank holiday","holiday"]
+			}
+		}
+	}
+}
+			
